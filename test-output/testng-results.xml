@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-21T23:57:49 IST" name="Default suite" finished-at="2024-10-21T23:58:38 IST" duration-ms="48287">
+    <groups>
+    </groups>
+    <test started-at="2024-10-21T23:57:49 IST" name="Default test" finished-at="2024-10-21T23:58:38 IST" duration-ms="48287">
+      <class name="JavascriptExecutorDemo">
+        <test-method signature="javaScript()[pri:0, instance:JavascriptExecutorDemo@6b9267b]" started-at="2024-10-21T23:57:50 IST" name="javaScript" finished-at="2024-10-21T23:58:38 IST" duration-ms="48204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javaScript -->
+      </class> <!-- JavascriptExecutorDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
